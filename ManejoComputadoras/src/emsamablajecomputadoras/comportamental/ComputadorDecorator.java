@@ -1,4 +1,4 @@
-package emsamablajecomputadoras.creacional;
+package emsamablajecomputadoras.comportamental;
 
 public class ComputadorDecorator implements IComputador{
 	private IComputador pc;

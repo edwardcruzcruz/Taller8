@@ -1,4 +1,4 @@
-package emsamablajecomputadoras.creacional;
+package emsamablajecomputadoras.comportamental;
 
 public class BuilderROGE extends Builder{
 

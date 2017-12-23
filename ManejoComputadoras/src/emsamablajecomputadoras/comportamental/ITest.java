@@ -1,4 +1,4 @@
-package emsamablajecomputadoras.creacional;
+package emsamablajecomputadoras.comportamental;
 
 public interface ITest {
 	public void handleValidation(Computador pc);

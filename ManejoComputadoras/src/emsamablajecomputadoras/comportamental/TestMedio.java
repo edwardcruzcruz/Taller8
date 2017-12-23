@@ -1,4 +1,4 @@
-package emsamablajecomputadoras.creacional;
+package emsamablajecomputadoras.comportamental;
 
 public class TestMedio implements ITest{
 	private ITest next;
